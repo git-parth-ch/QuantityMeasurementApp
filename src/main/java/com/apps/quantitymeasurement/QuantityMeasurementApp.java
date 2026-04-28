@@ -6,9 +6,7 @@ package com.apps.quantitymeasurement;
  */
 public class QuantityMeasurementApp {
 
-    /**
-     * Inner class to represent Feet measurement.
-     */
+ 
     public static class Feet {
         private final double value;
 

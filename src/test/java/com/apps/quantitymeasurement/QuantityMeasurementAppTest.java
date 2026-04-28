@@ -7,7 +7,7 @@ import com.apps.quantitymeasurement.QuantityMeasurementApp.Inches;
 
 public class QuantityMeasurementAppTest {
 
-    // --- Feet Equality Tests ---
+
     @Test
     public void testFeetEquality_SameValue() {
         assertEquals(new Feet(1.0), new Feet(1.0));
